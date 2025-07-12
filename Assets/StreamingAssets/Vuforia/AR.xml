@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="jupiter" size="1280.000000 1280.000000" />
+    <ImageTarget name="earth" size="1280.000000 719.000000" />
+    <ImageTarget name="mars-11012_1280" size="1280.000000 1280.000000" />
+    <ImageTarget name="venus-mariner-10-pia23791-fig2-16x9-1" size="1280.000000 720.000000" />
+    <ImageTarget name="pia02225" size="1280.000000 1422.222168" />
+    <ImageTarget name="neptune-6741029_1280" size="1280.000000 720.000000" />
+    <ImageTarget name="uranus1" size="1280.000000 1152.000000" />
+    <ImageTarget name="messenger_high_resolution_view_of_mercury_pia_13840" size="1280.000000 1280.000000" />
+    <ImageTarget name="chatgptimageapr2202501_16_13pm" size="500.000000 486.328125" />
+    <ImageTarget name="chatgptimageapr2" size="500.000000 486.328125" />
+    <ImageTarget name="chatgptimageapr1202501_01_35pm" size="500.000000 485.351562" />
+    <ImageTarget name="chatgptimageapr2202501_28_55pm" size="500.000000 333.333344" />
+    <ImageTarget name="chatgptimageapr2202501_20_57pm" size="500.000000 486.328125" />
+    <ImageTarget name="chatgptimageapr1202512_59_23pm" size="500.000000 500.000000" />
+    <ImageTarget name="chatgptimageapr1202512_54_47pm" size="500.000000 500.000000" />
+    <ImageTarget name="chatgptimageapr1202512_52_12pm" size="500.000000 500.000000" />
+    <ImageTarget name="chatgptimageapr1202512_45_30pm" size="500.000000 500.000000" />
+    <ImageTarget name="marker" size="10.000000 6.666667" />
+  </Tracking>
+</QCARConfig>
