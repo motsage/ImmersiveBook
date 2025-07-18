@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Animals Assets_en-ZA
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-ZA
+  m_SharedData: {fileID: 11400000, guid: a09b93e80a89142b58de344dc884e3dd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 119746322432
+    m_Localized: 5f8336270ef00b24aa3fe192a63c25bc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290727124992
+    m_Localized: 1e41f6f3c644fb242bd0bf812c505878
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515822837760
+    m_Localized: 7022969448b03824186f7fe04cf10097
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1045924143104
+    m_Localized: 8f69cfea68862f34ba1377ddf7b297ba
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

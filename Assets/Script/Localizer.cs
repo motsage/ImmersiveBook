@@ -22,7 +22,7 @@ public class Localizer : MonoBehaviour
             var locale = LocalizationSettings.AvailableLocales.Locales[i];
             if (LocalizationSettings.SelectedLocale == locale)
                 selected = i;
-            options.Add(new TMP_Dropdown.OptionData(locale.LocaleName));
+            options.Add(new TMP_Dropdown.OptionData(locale.Identifier.Code));
         }
         languages.options = options;
 

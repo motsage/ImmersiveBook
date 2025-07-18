@@ -15,10 +15,16 @@ MonoBehaviour:
   m_GroupName: Localization-Asset-Tables-Afrikaans (South Africa) (af-ZA)
   m_Data:
     m_SerializedData: []
-  m_GUID: c529469c037524e5aa7f8ec3553e6e92
+  m_GUID: 5909212599baa4477ada4a4bd7f12d7c
   m_SerializeEntries:
-  - m_GUID: 438046090fd54411db521777bc6e6be4
-    m_Address: Human body assets_af-ZA
+  - m_GUID: 24ebc539f45c241369b3e2999fe0e80a
+    m_Address: Body Parts Assets_af-ZA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae6a9278ff1b45aaab3cb55ab76a41a
+    m_Address: Animals Assets_af-ZA
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-af-ZA

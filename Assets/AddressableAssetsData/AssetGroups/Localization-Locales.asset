@@ -15,16 +15,16 @@ MonoBehaviour:
   m_GroupName: Localization-Locales
   m_Data:
     m_SerializedData: []
-  m_GUID: e07b0fc6eefb348f58aac41c69ff7f52
+  m_GUID: c1ff249da6f8446cc9fbeb768c2e5fa1
   m_SerializeEntries:
-  - m_GUID: fa31f89130249401e911534bc5964fa1
-    m_Address: EN
+  - m_GUID: 61ed7fb1aaf9e43029bf63b6b0f71f18
+    m_Address: Afrikaans (South Africa) (af-ZA)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4b820651c50ad43ae93089f4718f6707
-    m_Address: AF-ZA
+  - m_GUID: b468646329aeb4c029dcf080580ab85d
+    m_Address: English (South Africa) (en-ZA)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale

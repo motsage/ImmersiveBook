@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5d17a21594effb4e9591490b009e7aa, type: 3}
-  m_Name: Localization-Assets-Shared_BundledAssetGroupSchema
+  m_Name: Localization-Asset-Tables-English (South Africa) (en-ZA)_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: 0d0d5cd6fed554028b2fd4c6e08245f6, type: 2}
+  m_Group: {fileID: 11400000, guid: e70bacaca46064390bad59cb9987c34a, type: 2}
   m_InternalBundleIdMode: 1
   m_Compression: 1
   m_IncludeAddressInCatalog: 1
