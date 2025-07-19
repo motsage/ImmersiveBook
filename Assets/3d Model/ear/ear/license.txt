@@ -1,0 +1,11 @@
+Model Information:
+* title:	EAR
+* source:	https://sketchfab.com/3d-models/ear-a17da47ac0cb4e8e9bd7e71779bdf31f
+* author:	tunosemi (https://sketchfab.com/tunosemi)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EAR" (https://sketchfab.com/3d-models/ear-a17da47ac0cb4e8e9bd7e71779bdf31f) by tunosemi (https://sketchfab.com/tunosemi) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
