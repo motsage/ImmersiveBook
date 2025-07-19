@@ -337,3 +337,723 @@ AssetImportParameters requested are different than current active one (requested
   custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1061.364781 seconds.
+  path: Assets/SamplesResources/Scenes/0-Main 1.unity
+  artifactKey: Guid(24280284e90d2644eb38c610e3be28b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources/Scenes/0-Main 1.unity using Guid(24280284e90d2644eb38c610e3be28b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88604f0705a1edb0adc6d0880953335') in 0.004179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.262595 seconds.
+  path: Assets/Script/PinchToScale.cs
+  artifactKey: Guid(b6b819520d1a7e74a85b233e9c5c366d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PinchToScale.cs using Guid(b6b819520d1a7e74a85b233e9c5c366d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e7a62ca44063f8fa1618ff8dd23af0') in 0.000545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.324464 seconds.
+  path: Assets/Script/SwipeToRotate.cs
+  artifactKey: Guid(52cc3c7dd3493b347967bbf70c373347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/SwipeToRotate.cs using Guid(52cc3c7dd3493b347967bbf70c373347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a835e0a625d2525476fbae9d2ecedf51') in 0.000509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 16.359551 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/AR/marker_scaled.jpg
+  artifactKey: Guid(346759224a934495a7f79b81c162f4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/AR/marker_scaled.jpg using Guid(346759224a934495a7f79b81c162f4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5e4cac37c4b418cadda0a509712dde') in 0.382187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 346.809090 seconds.
+  path: Assets/UI
+  artifactKey: Guid(c11f057711458cb42b2671925449ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(c11f057711458cb42b2671925449ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07feb111d3eea1239ac95afddb5fde36') in 0.000900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.648 seconds
+Refreshing native plugins compatible for Editor in 15.32 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.505 seconds
+Domain Reload Profiling: 2148ms
+	BeginReloadAssembly (174ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (393ms)
+		LoadAssemblies (446ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (24ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1505ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (748ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (42ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (314ms)
+			ProcessInitializeOnLoadMethodAttributes (287ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 17.67 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.15 ms.
+Unloading 6703 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 103 unused Assets / (1.3 MB). Loaded Objects now: 7575.
+Memory consumption went from 222.3 MB to 221.0 MB.
+Total: 5.095100 ms (FindLiveObjects: 0.597700 ms CreateObjectMapping: 0.553100 ms MarkObjects: 3.210300 ms  DeleteObjects: 0.733300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.580 seconds
+Refreshing native plugins compatible for Editor in 14.89 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.271 seconds
+Domain Reload Profiling: 1846ms
+	BeginReloadAssembly (156ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (343ms)
+		LoadAssemblies (384ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (31ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (1271ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (564ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (350ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 20.41 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 6704 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 103 unused Assets / (1.3 MB). Loaded Objects now: 7579.
+Memory consumption went from 224.5 MB to 223.2 MB.
+Total: 5.573400 ms (FindLiveObjects: 0.687100 ms CreateObjectMapping: 0.824800 ms MarkObjects: 3.348800 ms  DeleteObjects: 0.711800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2484.936881 seconds.
+  path: Assets/UI/super_adorable
+  artifactKey: Guid(567cfb271d8e8274faf3f6be45332389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/super_adorable using Guid(567cfb271d8e8274faf3f6be45332389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ce047be882a6f4980e678778b77a90') in 0.002630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.659160 seconds.
+  path: Assets/UI/super_adorable/Super Adorable.ttf
+  artifactKey: Guid(ec75b302c1cdd624c9266461474f737e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/super_adorable/Super Adorable.ttf using Guid(ec75b302c1cdd624c9266461474f737e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6fdead24e9255cf2ed68baadfe8e193') in 0.712949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 474.547802 seconds.
+  path: Assets/SamplesResources/Scenes/ChatGPT Image Apr 1, 2025, 12_45_30 PM.png
+  artifactKey: Guid(f4af9ab56884bcc46893830e1d6df4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources/Scenes/ChatGPT Image Apr 1, 2025, 12_45_30 PM.png using Guid(f4af9ab56884bcc46893830e1d6df4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c22f794d12497fc1f101d92072170d') in 0.132443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1710.313290 seconds.
+  path: Assets/Script
+  artifactKey: Guid(646df2e6a61206a4290d28024bb5a651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(646df2e6a61206a4290d28024bb5a651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcbce9097a4b8ade6f106655577d327') in 0.001769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 24.083782 seconds.
+  path: Assets/Script/LoadAssets.cs
+  artifactKey: Guid(40e8bfc8218515740bea523f91bde0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/LoadAssets.cs using Guid(40e8bfc8218515740bea523f91bde0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601f1ff41d9b5ebb37d0c7670f993021') in 0.000851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.027 seconds
+Refreshing native plugins compatible for Editor in 15.91 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.820 seconds
+Domain Reload Profiling: 2842ms
+	BeginReloadAssembly (446ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (308ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (492ms)
+		LoadAssemblies (527ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (51ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (22ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1821ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1135ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (39ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (927ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 18.72 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.25 ms.
+Unloading 6704 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 103 unused Assets / (1.3 MB). Loaded Objects now: 7626.
+Memory consumption went from 226.6 MB to 225.4 MB.
+Total: 6.220000 ms (FindLiveObjects: 0.632500 ms CreateObjectMapping: 0.774100 ms MarkObjects: 3.694800 ms  DeleteObjects: 1.117600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32.223936 seconds.
+  path: Assets/Script/LoadAssets.cs
+  artifactKey: Guid(40e8bfc8218515740bea523f91bde0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/LoadAssets.cs using Guid(40e8bfc8218515740bea523f91bde0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bbc5df81760651b7aa95b886d1aec8c') in 0.011164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.714 seconds
+Refreshing native plugins compatible for Editor in 14.45 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.476 seconds
+Domain Reload Profiling: 3185ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (172ms)
+	LoadAllAssembliesAndSetupDomain (329ms)
+		LoadAssemblies (362ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (45ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (2477ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (526ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (95ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 20.28 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Unloading 6704 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 103 unused Assets / (1.2 MB). Loaded Objects now: 7630.
+Memory consumption went from 228.5 MB to 227.2 MB.
+Total: 7.115100 ms (FindLiveObjects: 0.644800 ms CreateObjectMapping: 1.136300 ms MarkObjects: 4.359500 ms  DeleteObjects: 0.973400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 263.543789 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(c5e828273771eb7469c421ada831db95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(c5e828273771eb7469c421ada831db95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6c61c501a194c8d72f28138e7594a7') in 0.004077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 164.549588 seconds.
+  path: Assets/SamplesResources
+  artifactKey: Guid(006cc2190189d9648b89bb0ffd25677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources using Guid(006cc2190189d9648b89bb0ffd25677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65848084d86d5f36b7bbc1f81da6aa6') in 0.017802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.270915 seconds.
+  path: Assets/SamplesResources/InstantImageTarget
+  artifactKey: Guid(152592e5a625dfa44aa96684bdea64f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources/InstantImageTarget using Guid(152592e5a625dfa44aa96684bdea64f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61af260f06edd6c750b522ab8fe1732f') in 0.020805 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.800932 seconds.
+  path: Assets/SamplesResources/AugmentationAssets/Textures
+  artifactKey: Guid(1af6ea56f2a40644ab84a6aae95d8f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources/AugmentationAssets/Textures using Guid(1af6ea56f2a40644ab84a6aae95d8f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7596706a393ebfdf1bdc02a0aa317e4') in 0.000498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.655897 seconds.
+  path: Assets/Common/Icons/UWP/SplashScreen.scale-100.png
+  artifactKey: Guid(de5a9ac105040ee4c8837f65201981bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/UWP/SplashScreen.scale-100.png using Guid(de5a9ac105040ee4c8837f65201981bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685df33389f8e2470e2a2ef69fe1b94c') in 0.150853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.437572 seconds.
+  path: Assets/Common/Icons/iOS/Icon-180.png
+  artifactKey: Guid(73c9e6fc8fd374b119e143a8bc52bf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-180.png using Guid(73c9e6fc8fd374b119e143a8bc52bf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaffff6919d7d0f74462544cb223a138') in 0.075902 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.617277 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x081.png
+  artifactKey: Guid(7b3a41568325b49058f0f996eb569a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x081.png using Guid(7b3a41568325b49058f0f996eb569a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9205cff48f3e120b290c31d2cee2279') in 0.067414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 30.398692 seconds.
+  path: Assets/SamplesResources/InstantImageTarget/Astronaut.jpg
+  artifactKey: Guid(f0d9bcb0daf31468385cd551f205df5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SamplesResources/InstantImageTarget/Astronaut.jpg using Guid(f0d9bcb0daf31468385cd551f205df5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f5ac167efd6e79ffdae8039744b5a8') in 0.186629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x216.png
+  artifactKey: Guid(ad05b3745e8844194bae1994e47cd9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x216.png using Guid(ad05b3745e8844194bae1994e47cd9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd4d2d4caafc26c4699014c752832f1') in 0.120342 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UI/endocrine.png
+  artifactKey: Guid(5a7b6d51724168f4caafff45ff3639eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/endocrine.png using Guid(5a7b6d51724168f4caafff45ff3639eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b32f992dfdf45894a272bf4477bb61') in 0.278116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/home-icon-silhouette.png
+  artifactKey: Guid(f0b05ff41610e844c8f32a6a2b31595e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/home-icon-silhouette.png using Guid(f0b05ff41610e844c8f32a6a2b31595e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff60451d346801f368495b6422b392b') in 0.161122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Common/Icons/Android/Icon-36.png
+  artifactKey: Guid(98e9bf2eec31e492d858fd08e8223ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/Icon-36.png using Guid(98e9bf2eec31e492d858fd08e8223ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162164904d273bde2b75ea1cbc30ce02') in 0.106676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Common/Icons/iOS/Icon-29.png
+  artifactKey: Guid(ead39ea5b70b3401090170549ec78dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-29.png using Guid(ead39ea5b70b3401090170549ec78dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29668ed4e4555c0af562490e2bd546dc') in 0.132228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Common/Icons/Android/Icon-48.png
+  artifactKey: Guid(6fae8ff752f494bacb3c562bed7dea2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/Icon-48.png using Guid(6fae8ff752f494bacb3c562bed7dea2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee46f07ce511f1a80446da6f95649e6') in 0.256482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Common/Icons/iOS/Icon-57.png
+  artifactKey: Guid(8f0cac86f23b94d7693801136041165e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-57.png using Guid(8f0cac86f23b94d7693801136041165e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9197faba7d36fcd86f2c4132f6cc03') in 0.112964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Common/Icons/iOS/Icon-58.png
+  artifactKey: Guid(753491ea5c3de4f928409d7f8e96b80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-58.png using Guid(753491ea5c3de4f928409d7f8e96b80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad844fc346e194f1faa19698199e6199') in 0.371200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Common/Icons/iOS/Icon-87.png
+  artifactKey: Guid(dd034f60ad00b407089fd2248eb2bae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-87.png using Guid(dd034f60ad00b407089fd2248eb2bae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be535052a5fd689d3514029a007f8b9e') in 0.378263 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Common/Icons/iOS/Icon-114.png
+  artifactKey: Guid(4425ccef1413140a09233e0eba47657d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-114.png using Guid(4425ccef1413140a09233e0eba47657d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff719b159bbc570cc26a048653e95eb') in 0.261117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Common/Icons/iOS/Icon-128.png
+  artifactKey: Guid(6278ff11915714cf4a571a49bbc59f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-128.png using Guid(6278ff11915714cf4a571a49bbc59f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb541d2707dc66c339edf55efd01da4') in 0.343774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Common/Icons/Android/Icon-144.png
+  artifactKey: Guid(fe689abc1067e4869a58c87d14482078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/Icon-144.png using Guid(fe689abc1067e4869a58c87d14482078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772b80ae18167c7d47b1ba0803c88873') in 0.290205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x216.png
+  artifactKey: Guid(78781f500fd7e4133b37547cebfe0231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x216.png using Guid(78781f500fd7e4133b37547cebfe0231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d33ed9b37673670d6afd211c74cb5d') in 0.282413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Common/Icons/iOS/Icon-196.png
+  artifactKey: Guid(38c9f8f898d5a461397639d3a61e1428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-196.png using Guid(38c9f8f898d5a461397639d3a61e1428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c743b3a1682aee4f348a25315d802c1') in 0.107023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x432.png
+  artifactKey: Guid(17890dd0942584ef7b1886ffc15250a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/BackGround_x432.png using Guid(17890dd0942584ef7b1886ffc15250a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e533b5392e6ff25b2166fafa2b10608') in 0.106784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/galaxy.png
+  artifactKey: Guid(1506dbf8625686d4fb9dbb8d7807a81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/galaxy.png using Guid(1506dbf8625686d4fb9dbb8d7807a81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d63eaec8f97ddd403ebe6fcfe25e6bc') in 0.351852 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Common/Icons/iOS/Icon-512.png
+  artifactKey: Guid(d009bdac2bfb64f73a7d01d12af11139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-512.png using Guid(d009bdac2bfb64f73a7d01d12af11139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76aba85cc86f313c7e6a0eff3e81cc6c') in 0.220160 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Common/Icons/UWP/SplashScreen.scale-125.png
+  artifactKey: Guid(1f3678bd16e407946824f7f20e6e513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/UWP/SplashScreen.scale-125.png using Guid(1f3678bd16e407946824f7f20e6e513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb54af36d6d86f2e88d7e214ca9b426') in 0.513617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Common/Icons/UWP/SplashScreen.scale-200.png
+  artifactKey: Guid(8e614c22e974d9f429f920990d61ef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/UWP/SplashScreen.scale-200.png using Guid(8e614c22e974d9f429f920990d61ef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a8e72cf85d0caaa532be78f73e7481') in 0.433206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Common/Icons/Android/Icon-72.png
+  artifactKey: Guid(d85ccead4ae714b0682b281b94267e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/Icon-72.png using Guid(d85ccead4ae714b0682b281b94267e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3b8b81c1e91ed8947d7405615e3d60') in 0.093682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Common/Icons/iOS/Icon-80.png
+  artifactKey: Guid(b36a145ee04964f5a8fbc998f53ad10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-80.png using Guid(b36a145ee04964f5a8fbc998f53ad10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28629c10daa36a5997d8cad42abe7953') in 0.060809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Common/Icons/UWP/SplashScreen.scale-150.png
+  artifactKey: Guid(2ea158708e7a21e4ead741823fd0f8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/UWP/SplashScreen.scale-150.png using Guid(2ea158708e7a21e4ead741823fd0f8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27b73aa7c3dc30d6382f5537c6b090d') in 0.106303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Common/Icons/iOS/Icon-48.png
+  artifactKey: Guid(5b6408b8fcc554852ba035c9cb16aad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-48.png using Guid(5b6408b8fcc554852ba035c9cb16aad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a738046f4292f1ad812f9c2d6b8e4a') in 0.064727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Common/Icons/Android/Icon-96.png
+  artifactKey: Guid(827b731c62d8d42c093899fa44179bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/Icon-96.png using Guid(827b731c62d8d42c093899fa44179bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ed55daed8f4ee86050d9494d7ac4c8') in 0.338542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x108.png
+  artifactKey: Guid(71bdaccaa006c43bf9b5eaa2ef7bad56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x108.png using Guid(71bdaccaa006c43bf9b5eaa2ef7bad56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa53c202c2baa76f1bc0f7e6517c783d') in 0.203167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x432.png
+  artifactKey: Guid(44f5763023bff4d3dbfb13b858cff6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/Android/AdaptiveIcons/ForeGround_x432.png using Guid(44f5763023bff4d3dbfb13b858cff6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5439a96931b564655727fea9f620619') in 0.331708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Common/Icons/iOS/Icon-64.png
+  artifactKey: Guid(887074311a0ab4d3586bc5203a08742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-64.png using Guid(887074311a0ab4d3586bc5203a08742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c75c06dc0b48e39e64c136e2929c557') in 0.106352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Common/Icons/iOS/Icon-120.png
+  artifactKey: Guid(e5d044c008db542bf8371f7e7c91bb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Icons/iOS/Icon-120.png using Guid(e5d044c008db542bf8371f7e7c91bb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a3bbe9ba5348553aa4c506e6f21740') in 0.411088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 53.644230 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/AR/detailedblueeyeonparchment_scaled.jpg
+  artifactKey: Guid(edd21989520e47ca8ad2c8b0a5fa1284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/AR/detailedblueeyeonparchment_scaled.jpg using Guid(edd21989520e47ca8ad2c8b0a5fa1284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3595e35c175f12fbfc4a827f28a894') in 0.082303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.356412 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/AR/detailedhumanearillustrationinwarmtones_scaled.jpg
+  artifactKey: Guid(936a5d033bec433fb22aef4f3501b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/AR/detailedhumanearillustrationinwarmtones_scaled.jpg using Guid(936a5d033bec433fb22aef4f3501b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75eaad21296bc1f0ad5f1435fcce513') in 0.045520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 15.085062 seconds.
+  path: Assets/Prefab/Animal.prefab
+  artifactKey: Guid(e4425bb3757117246b7e7e9989e9d36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Animal.prefab using Guid(e4425bb3757117246b7e7e9989e9d36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60240def363b5f3aa753eacb5c74a24d') in 0.755328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 998
+========================================================================
+Received Import Request.
+  Time since last request: 1.665491 seconds.
+  path: Assets/Prefab/Planets.prefab
+  artifactKey: Guid(aff7464369d31dd47be7f9ecada7dad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Planets.prefab using Guid(aff7464369d31dd47be7f9ecada7dad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa666b0df9380250b0193832772c22b2') in 0.961091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 176
+========================================================================
+Received Import Request.
+  Time since last request: 0.223378 seconds.
+  path: Assets/Prefab/HumanBody.prefab
+  artifactKey: Guid(9053719c986e9df418776165e4963ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/HumanBody.prefab using Guid(9053719c986e9df418776165e4963ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d6096eac69ba8a75366853b7a1a617') in 1.009702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 875
