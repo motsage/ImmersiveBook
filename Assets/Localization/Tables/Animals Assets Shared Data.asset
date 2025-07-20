@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Animals Assets Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Animals Assets
+  m_TableCollectionNameGuidString: a09b93e80a89142b58de344dc884e3dd
+  m_Entries:
+  - m_Id: 119746322432
+    m_Key: Elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290727124992
+    m_Key: Giraffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515822837760
+    m_Key: Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1045924143104
+    m_Key: Rhino
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 5787744944100737076
+  m_KeyGenerator:
+    rid: 5787744944100737075
+  references:
+    version: 2
+    RefIds:
+    - rid: 5787744944100737075
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1752813416578
+    - rid: 5787744944100737076
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 119746322432
+          m_TableCodes:
+          - af-ZA
+          - en-ZA
+        - m_KeyId: 290727124992
+          m_TableCodes:
+          - af-ZA
+          - en-ZA
+        - m_KeyId: 515822837760
+          m_TableCodes:
+          - af-ZA
+          - en-ZA
+        - m_KeyId: 1045924143104
+          m_TableCodes:
+          - af-ZA
+          - en-ZA
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

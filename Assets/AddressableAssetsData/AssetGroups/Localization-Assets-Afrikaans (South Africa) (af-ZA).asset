@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Afrikaans (South Africa) (af-ZA)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Afrikaans (South Africa) (af-ZA)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 61d1e8580ee1245ccba2c605e7e9c38a
+  m_SerializeEntries:
+  - m_GUID: 0a83b0712e9d2456585c4bf61bf9749b
+    m_Address: Heart
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1b318f2b9b134f02aec162096fe9e74
+    m_Address: Kidney
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 412fd9603486741bfa441d1f3b449841
+    m_Address: Lungs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 315ec947d474847459e26e0508cd4f9f
+    m_Address: Skelet
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed0e130c97974aacad2fd2176babda7
+    m_Address: Brain
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6df44b58129c548cfa1b4d2f3c363f9a
+    m_Address: Elephant
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6a1b83ba67c491694e318c87bd40fd
+    m_Address: Giraffe
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85c5988cdcd364b63968727f3f6c7cc5
+    m_Address: Lion
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97860f7a154d147959f96c445ec9ba74
+    m_Address: Rhino
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-af-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 66d98d291aeb14b2d8a06a82cb22f54f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9c9f648a1c07b484aad25eb106cab7f8, type: 2}
+    - {fileID: 11400000, guid: 33b2497dab5764f82b8ec23905a4ed99, type: 2}

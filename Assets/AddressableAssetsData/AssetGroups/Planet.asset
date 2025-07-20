@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Planet
+  m_EditorClassIdentifier: 
+  m_GroupName: Planet
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a3527da39cbc1ac4794bf65972ae468e
+  m_SerializeEntries:
+  - m_GUID: aff7464369d31dd47be7f9ecada7dad3
+    m_Address: Planets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66d98d291aeb14b2d8a06a82cb22f54f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 350036e7f9f564848ab99747e57ca7cb, type: 2}
+    - {fileID: 11400000, guid: 3ff94f47da2897845a545e5a07fc5832, type: 2}

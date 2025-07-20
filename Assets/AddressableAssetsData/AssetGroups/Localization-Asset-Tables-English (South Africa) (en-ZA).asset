@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-English (South Africa) (en-ZA)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-English (South Africa) (en-ZA)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb105df78a68547f484471f23c1740ed
+  m_SerializeEntries:
+  - m_GUID: c14c914c5737a4e76b40d247c974d1ff
+    m_Address: Body Parts Assets_en-ZA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 708e4a361faff46a0b1e06010ff9d169
+    m_Address: Animals Assets_en-ZA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-ZA
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 66d98d291aeb14b2d8a06a82cb22f54f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84f8d70982925477d9247ac4a78edcd7, type: 2}
+    - {fileID: 11400000, guid: 24c20905a35944aaa83078ab8542ddc5, type: 2}

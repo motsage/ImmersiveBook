@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/3d Model/ear/ear/scene.bin.meta
 guid: 38045a151bddf22439fa1a23d47d235d
+========
+guid: 4f80ae4785d28429e89f8a7fa732faca
+folderAsset: yes
+>>>>>>>> origin/feature/brusley/localze-afrikaans:Assets/AddressableAssetsData.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

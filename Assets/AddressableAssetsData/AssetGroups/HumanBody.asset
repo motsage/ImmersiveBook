@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HumanBody
+  m_EditorClassIdentifier: 
+  m_GroupName: HumanBody
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4b9628d1a762e9b449850fb3c45accf0
+  m_SerializeEntries:
+  - m_GUID: 9053719c986e9df418776165e4963ba9
+    m_Address: HumanBody
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66d98d291aeb14b2d8a06a82cb22f54f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 41dcf4af79475a844ae6576bde8244ed, type: 2}
+    - {fileID: 11400000, guid: e64858c566a54d241920b612cb7abe0c, type: 2}
